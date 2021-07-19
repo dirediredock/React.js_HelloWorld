@@ -4,7 +4,7 @@ My first dive into React.js!
 
 <img src="https://raw.githubusercontent.com/dirediredock/React.js_HelloWorld/main/Figures/ReactWorking.png" width="100%">
 
-# Install these packages on terminal (requires Homebrew)
+# Requires these packages installed through Terminal (requires Homebrew)
 
 Babel JavaScript compiler
 
