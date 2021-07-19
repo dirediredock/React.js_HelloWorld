@@ -1,5 +1,8 @@
 # React.js_HelloWorld
+
 My first dive into React.js!
+
+<img src="https://raw.githubusercontent.com/dirediredock/React.js_HelloWorld/main/Figures/ReactWorking.png" width="100%">
 
 # Install these packages on terminal (requires Homebrew)
 
