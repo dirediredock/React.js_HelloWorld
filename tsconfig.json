@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "noUnusedLocals": true,
+        "noImplicitAny": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "strict": true,
+        "jsx": "react-jsx"
+  },
+    "include": [
+        "src/**/*" // Where are my TS files!? answer: src.
+  ],
+    "exclude": [
+        "node_modules", // HUGE, so no look.
+        "dist" // Compile files go here so also no look.
+  ]
+}
