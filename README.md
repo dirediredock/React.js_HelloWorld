@@ -4,7 +4,16 @@ My first dive into React.js!
 
 <img src="https://raw.githubusercontent.com/dirediredock/React.js_HelloWorld/main/Figures/ReactWorking.png" width="100%">
 
-# Requires these packages installed through Terminal (requires Homebrew)
+# How to run
+
+1. On Terminal, set cd to the project's working directory
+2. Install the required packages in the root of the working directory (list below).
+3. Clone the working directory folder structure and files into your machine.
+4. On Terminal, run: `npm run start`
+5. Browser will open with React app (with hot reloading!)
+6. To terminate, Control+C on Terminal
+
+# List of packages installed through Terminal (requires Homebrew)
 
 Babel JavaScript compiler
 
@@ -42,11 +51,5 @@ ReactDOM for DOM-specific methods
 And finally, TypeScript!
 
 `npm i --save-dev typescript`
-
-# How to run
-
-1. On Terminal, set cd to the project's working directory
-2. Run: `npm run start`
-3. Control+C to stop run
 
 
