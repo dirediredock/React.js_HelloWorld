@@ -6,7 +6,7 @@ My first dive into React.js!
 
 # How to run
 
-1. On Terminal, set cd to the project's working directory.
+1. On Terminal, set `cd` to be the project's working directory.
 2. Install the required packages in the root of the working directory (list below).
 3. Clone the working directory folder structure and files into your machine.
 4. On Terminal, run: `npm run start`.
