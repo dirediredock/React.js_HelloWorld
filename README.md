@@ -13,7 +13,7 @@ My first dive into React.js!
 5. Browser will open with React app (with hot reloading!).
 6. To terminate, Control+C on Terminal.
 
-Note: TypeScript module components are found in the src/components folder, these are the modules rendered. Everything else is scaffolding so that the browser can interpret and render content, such as that found in `App.tsx`.
+Note: TypeScript module components are found in the `src/components` folder. Everything else in the working directory is scaffolding so that the browser can interpret and render content, such as that found in `App.tsx`.
 
 # List of packages installed through Terminal (requires Homebrew)
 
